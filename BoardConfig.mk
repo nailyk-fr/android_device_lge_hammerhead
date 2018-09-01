@@ -131,4 +131,5 @@ USE_DEVICE_SPECIFIC_CAMERA:= true
 
 TARGET_NEEDS_PLATFORM_TEXT_RELOCATIONS:= true
 
+-include device/lge/hammerhead/twrp.mk
 -include vendor/lge/hammerhead/BoardConfigVendor.mk
